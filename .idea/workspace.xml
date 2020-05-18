@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8713d85c-9712-46a9-9d6d-ebb4e87237fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_1_0_RELEASE.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-backend-apirest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-backend-apirest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/entity/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/entity/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/util/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/util/Modulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bolsadeideas/springboot/backend/apirest/util/Modulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bolsadeideas/springboot/backend/apirest/util/Modulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/import.sql" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_management" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -98,8 +98,16 @@
       <workItem from="1589418197859" duration="1459000" />
       <workItem from="1589434016944" duration="2699000" />
       <workItem from="1589495466281" duration="3113000" />
-      <workItem from="1589747822088" duration="2134000" />
+      <workItem from="1589747822088" duration="11150000" />
     </task>
+    <task id="LOCAL-00001" summary="H2 Base de Datos">
+      <created>1589764352620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589764352620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +123,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="H2 Base de Datos" />
+    <option name="LAST_COMMIT_MESSAGE" value="H2 Base de Datos" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

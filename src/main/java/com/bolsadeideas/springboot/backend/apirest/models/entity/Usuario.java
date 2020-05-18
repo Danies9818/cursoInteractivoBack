@@ -34,6 +34,7 @@ public class Usuario implements Serializable {
 	
 	private String nombre;
 	private String apellido;
+	private Integer cedula;
 	
 	@Column(unique = true)
 	private String email;
@@ -106,6 +107,14 @@ public class Usuario implements Serializable {
 
 	public void setEmail(String email) {
 		this.email = email;
+	}
+
+	public Integer getCedula() {
+		return cedula;
+	}
+
+	public void setCedula(Integer cedula) {
+		this.cedula = cedula;
 	}
 
 	/**
