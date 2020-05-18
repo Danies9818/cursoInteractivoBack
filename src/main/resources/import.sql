@@ -13,7 +13,7 @@ INSERT INTO regiones (id, nombre) VALUES (8, 'Antártida');
 /* Creamos algunos usuarios con sus roles */
 INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email, cedula) VALUES ('Daniel','$2a$10$C3Uln5uqnzx/GswADURJGOIdBqYrly9731fnwKDaUdBkt/M3qvtLq',1, 'Andres', 'Guzman','profesor@bolsadeideas.com',12341313);
 INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email, cedula) VALUES ('admin','$2a$10$RmdEsvEfhI7Rcm9f/uZXPebZVCcPC7ZXZwV51efAvMAp1rIaRAfPK',1, 'John', 'Doe','jhon.doe@bolsadeideas.com',1231231312);
-INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email, cedula) VALUES ('Julian','$2a$10$C3Uln5uqnzx/GswADURJGOIdBqYrly9731fnwKDaUdBkt/M3qvtLq',1, 'Andres', 'Guzman','sss@bolsadeideas.com',12313123);
+INSERT INTO `usuarios` (username, password, enabled, nombre, apellido, email, cedula) VALUES ('Julian','$2a$10$C3Uln5uqnzx/GswADURJGOIdBqYrly9731fnwKDaUdBkt/M3qvtLq',1, 'Andres', 'Guzman','sss@bolsadeideas.com',11111111);
 
 INSERT INTO `roles` (nombre) VALUES ('ROLE_ESTUDI');
 INSERT INTO `roles` (nombre) VALUES ('ROLE_ADMIN');

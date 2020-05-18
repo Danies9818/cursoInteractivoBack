@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8713d85c-9712-46a9-9d6d-ebb4e87237fe" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/entity/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/models/entity/Usuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/util/Modulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/util/Modulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/auth/InfoAdicionalToken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bolsadeideas/springboot/backend/apirest/auth/InfoAdicionalToken.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/import.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/bolsadeideas/springboot/backend/apirest/util/Modulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bolsadeideas/springboot/backend/apirest/util/Modulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/bolsadeideas/springboot/backend/apirest/auth/InfoAdicionalToken.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/bolsadeideas/springboot/backend/apirest/auth/InfoAdicionalToken.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/import.sql" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../project_management" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -98,7 +97,7 @@
       <workItem from="1589418197859" duration="1459000" />
       <workItem from="1589434016944" duration="2699000" />
       <workItem from="1589495466281" duration="3113000" />
-      <workItem from="1589747822088" duration="11150000" />
+      <workItem from="1589747822088" duration="13943000" />
     </task>
     <task id="LOCAL-00001" summary="H2 Base de Datos">
       <created>1589764352620</created>
@@ -107,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589764352620</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="H2 Base de Datos">
+      <created>1589788386419</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589788386419</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
